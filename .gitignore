@@ -1,0 +1,10 @@
+.DS_Store
+
+# 个人简历及照片不属于本知识库项目，避免误上传隐私文件
+resume*
+
+# 早期未使用的站点脚手架
+dw-interview-wiki/
+
+# 用户提供的原始参考资料不上传到公开代码仓库
+reference-materials/
